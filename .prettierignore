@@ -1,0 +1,11 @@
+node_modules/
+build/
+public/
+src/assets/
+src/swagger/
+.idea/
+.editorconfig
+.gitignore
+.prettierignore
+.DS_Store
+
